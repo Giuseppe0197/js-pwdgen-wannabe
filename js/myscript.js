@@ -18,5 +18,5 @@ console.log(colore);
 
 /* password generata */
 
-document.getElementById("password_utente").innerHTML = "La tua password è: " + nome + cognome + colore + 21;
-console.log("La tua password è: " + nome + cognome + colore + 21);
+document.getElementById("password_utente").innerHTML = "La password assegnata è: " + nome + cognome + colore + 21;
+console.log("La password assegnata è: " + nome + cognome + colore + 21);
